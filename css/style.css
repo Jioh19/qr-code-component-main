@@ -1,0 +1,33 @@
+
+body {
+    background-color: rgb(213, 225, 239);
+}
+
+section {
+    background-color: white;
+    margin: 10% 40% 30% 40%;
+
+    padding: 10px;
+    border-radius: 5%;
+}
+
+img {
+    align-self: auto;
+    margin: 2% 2% 7% 2%;
+    max-height: 100%;
+    max-width: 96%;
+    border-radius: 3%;
+}
+
+p{
+    text-align: center;
+    font-family: tahoma;
+    font-size: small;
+    color: gray;
+}
+
+.title {
+    font-weight: bold;
+    font-size: large;
+    color: black;
+}
